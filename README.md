@@ -9,4 +9,9 @@
 - <img src="https://camo.githubusercontent.com/ee88d3d57e1b7b084c184c5a1688a22f5abed6f541dc2921c687d5eb906e9ea2/68747470733a2f2f696d672e69636f6e73382e636f6d2f3f73697a653d3130302669643d313336373926666f726d61743d706e6726636f6c6f723d303030303030" width="45">
 - <img src="https://camo.githubusercontent.com/1d71e3522536364cde334c6e58762e93c171d23eee6ebf18495a0999c820be88/68747470733a2f2f696d672e69636f6e73382e636f6d2f3f73697a653d3130302669643d313334343126666f726d61743d706e6726636f6c6f723d303030303030" width="45">
 
+- Linux <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30">
+- Shell <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="30">
+- Qt <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" width="30">
+
+
 Îmi place să învăț lucruri noi și să îmi dezvolt abilitățile în diverse domenii ale informaticii. Sunt mereu în căutare de proiecte interesante și colaborări care să mă ajute să îmi îmbunătățesc cunoștințele.
