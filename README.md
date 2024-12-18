@@ -9,3 +9,9 @@
 
 
 #### I enjoy learning new things and developing my skills in various fields of computer science. I am always looking for interesting projects and collaborations that help me grow professionally.
+
+![Top Languages](https://img.shields.io/github/languages/top/MihaiMunteanu1/MihaiMunteanu1)
+
+## Most Used Languages
+
+![Top Languages](https://img.shields.io/github/languages/top/MihaiMunteanu1/MihaiMunteanu1)
