@@ -12,4 +12,4 @@
 
 ## Most Used Languages
 
-![Top Languages](https://img.shields.io/github/languages/top/MihaiMunteanu1/MihaiMunteanu1)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=MihaiMunteanu1&show_icons=true&locale=en&layout=compact&cache_seconds=3600&v=1)
