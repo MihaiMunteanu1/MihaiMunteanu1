@@ -17,7 +17,6 @@
 
 <img src="https://github.com/user-attachments/assets/7038e054-9afe-41a4-ada4-fc4d4c55ee12" width="45" > &nbsp;&nbsp; <img src="https://github.com/user-attachments/assets/a01d15d3-c1f9-4c93-a623-0e060f1f8040" width="45" >
 
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/sql-server/sql-server.png" width="45" >
 
 #### I enjoy learning new things and developing my skills in various fields of computer science. I am always looking for interesting projects and collaborations that help me grow professionally.
 
