@@ -12,7 +12,7 @@
 
 #### Databases:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45"> &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="45">
-<p style="font-size:1px; text-align:center;">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SQL Server</p>
+<p style="font-size👍; text-align:center;">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SQL Server</p>
 
 #### Other tools:
 
