@@ -11,8 +11,14 @@
 <img src="https://github.com/user-attachments/assets/b1ab07c6-091d-40b0-b78a-9f0b1444f966" width="45" > &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" width="45">
 
 #### Databases:
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="45">
-<p style="font-size:12px; text-align:center;">SQL Server</p>
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <div style="display: flex; align-items: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45">
+    &nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="45">
+  </div>
+  <p style="font-size:12px; text-align:center;">SQL Server</p>
+</div>
 
 #### Other tools:
 
