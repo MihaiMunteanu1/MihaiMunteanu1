@@ -8,7 +8,11 @@
 
 <img src="https://github.com/user-attachments/assets/b1ab07c6-091d-40b0-b78a-9f0b1444f966" width="45" >         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" width="45">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="45">     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45">
+#### Databases
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45">
+
+ 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="45">    
 
 
 #### I enjoy learning new things and developing my skills in various fields of computer science. I am always looking for interesting projects and collaborations that help me grow professionally.
