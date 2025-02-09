@@ -21,8 +21,6 @@
 
 #### I enjoy learning new things and developing my skills in various fields of computer science. I am always looking for interesting projects and collaborations that help me grow professionally.
 
-[LinkedIn](https://www.linkedin.com/in/mihai-munteanu-2a979834b/)
-
 
 ## Most Used Languages
 
