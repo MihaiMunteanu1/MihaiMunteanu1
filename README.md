@@ -13,6 +13,9 @@
 #### Databases:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45">
 
+#### Other tools:
+
+<img src="https://github.com/user-attachments/assets/7038e054-9afe-41a4-ada4-fc4d4c55ee12" width="45" >           <img src="https://github.com/user-attachments/assets/a01d15d3-c1f9-4c93-a623-0e060f1f8040" width="45" >
 
 
 
