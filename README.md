@@ -6,7 +6,7 @@
 
 ### UI/UX Frameworks
 
-<img src="https://github.com/user-attachments/assets/b1ab07c6-091d-40b0-b78a-9f0b1444f966" width="45" >      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" width="45">
+<img src="https://github.com/user-attachments/assets/b1ab07c6-091d-40b0-b78a-9f0b1444f966" width="45" >           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" width="45">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="45">     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45">
 
