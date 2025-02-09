@@ -17,7 +17,7 @@
     &nbsp;&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="45">
   </div>
-  <p style="font-size:12px; text-align:center;">SQL Server</p>
+  <p style="font-size:12px; text-align:center;">       SQL Server</p>
 </div>
 
 #### Other tools:
