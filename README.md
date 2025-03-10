@@ -8,7 +8,8 @@
 
 #### UI/UX Frameworks:
 
-<img src="https://github.com/user-attachments/assets/b1ab07c6-091d-40b0-b78a-9f0b1444f966" width="45" > &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" width="45"> ![.NET Logo](https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Logo.svg)
+<img src="https://github.com/user-attachments/assets/b1ab07c6-091d-40b0-b78a-9f0b1444f966" width="45" > &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" width="45"> <img
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="45">
 
 #### Databases:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45"> &nbsp;&nbsp; <img src="https://github.com/user-attachments/assets/4d9472a7-55a0-4676-8141-4cb72a6a26a2" width="50" height="55">
