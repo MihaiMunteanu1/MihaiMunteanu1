@@ -24,8 +24,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot
 <img src="https://github.com/user-attachments/assets/7038e054-9afe-41a4-ada4-fc4d4c55ee12" width="45" > 
 
 
-#### I enjoy learning new things and developing my skills in various fields of computer science. I am always looking for interesting projects and collaborations that help me grow professionally.
-
 
 ## Most Used Languages
 
