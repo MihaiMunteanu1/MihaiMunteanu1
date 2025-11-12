@@ -30,7 +30,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot
 <img src="https://github.com/user-attachments/assets/7038e054-9afe-41a4-ada4-fc4d4c55ee12" width="45" > 
 
 
-
 ## Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=MihaiMunteanu1&show_icons=true&locale=en&layout=compact&cache_seconds=3600&v=1)
