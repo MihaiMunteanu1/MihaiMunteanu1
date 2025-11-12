@@ -17,8 +17,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot
 #### Algorithmic Trading & Quantitative Finance:
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="45">    &nbsp;&nbsp; 
-<img src="https://cdn-icons-png.flaticon.com/512/2907/2907115.png" width="45">   &nbsp;&nbsp; 
-<img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" width="45">&nbsp;&nbsp; 
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/MQL5_Community_Logo.png" width="45">
 
 ##### -> Hands-on experience developing automated trading systems (Expert Advisors) for MetaTrader 5 (MT5) using MQL5
 
