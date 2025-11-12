@@ -14,6 +14,14 @@
  <img
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="45"> &nbsp;&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width="45">
 
+#### Algorithmic Trading & Quantitative Finance:
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="45">    &nbsp;&nbsp; 
+<img src="https://github.com/user-attachments/assets/7bca6232-10f5-4f8a-a37a-0fbd362f13fb" width="45">   &nbsp;&nbsp;  
+<img src="https://github.com/user-attachments/assets/bf8ad343-3d08-4c7d-85fc-2fd43b2ad515" width="45"> &nbsp;&nbsp; 
+
+Hands-on experience developing automated trading systems (Expert Advisors) for MetaTrader 5 (MT5) using MQL5
+
 #### Mobile Development:
 <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original-wordmark.svg" width="45"> &nbsp; &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="45">&nbsp; &nbsp;
