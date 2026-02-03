@@ -28,6 +28,9 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot
 
 #### Databases:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45"> &nbsp;&nbsp; <img src="https://github.com/user-attachments/assets/4d9472a7-55a0-4676-8141-4cb72a6a26a2" width="50" height="55"> &nbsp; &nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="45">
+&nbsp; &nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg
+" width="45">
+
 
 #### Networking & Infrastructures:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45">   &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="45"> &nbsp;&nbsp; <img src="https://github.com/user-attachments/assets/a01d15d3-c1f9-4c93-a623-0e060f1f8040" width="45" >
