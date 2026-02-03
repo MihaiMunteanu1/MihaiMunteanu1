@@ -23,7 +23,8 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot
 #### Mobile Development:
 <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original-wordmark.svg" width="45"> &nbsp; &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="45">&nbsp; &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="45">
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="45">&nbsp; &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" width="45">
 
 #### Databases:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45"> &nbsp;&nbsp; <img src="https://github.com/user-attachments/assets/4d9472a7-55a0-4676-8141-4cb72a6a26a2" width="50" height="55"> &nbsp; &nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="45">
