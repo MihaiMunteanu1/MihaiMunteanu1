@@ -43,3 +43,17 @@
 #### Build tools:
 
 <img src="https://github.com/user-attachments/assets/7038e054-9afe-41a4-ada4-fc4d4c55ee12" width="45" > 
+
+
+## 🚀 Featured Projects
+- **Tutorly** – AI tutoring platform with avatar + STT/TTS. *(FastAPI, React, Docker, Ollama, Whisper)*
+- **Ticketing Service** – Concurrent ticketing system with fine-grained locking + metrics. *(C++, multithreading)*
+- **Social Network App** – Desktop social network app with PostgreSQL persistence. *(Java, JavaFX, PostgreSQL)*
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/mihai-munteanu-2a979834b/
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_title=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact)
+
