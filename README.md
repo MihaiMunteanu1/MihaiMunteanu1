@@ -17,8 +17,11 @@
 <img src="https://github.com/user-attachments/assets/b1ab07c6-091d-40b0-b78a-9f0b1444f966" width="45" > &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" width="45">
 
 #### Backend Development:
- <img
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="45"> &nbsp;&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width="45">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="45"> &nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width="45"> &nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="45"> &nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="45">
+
 
 #### Mobile Development:
 <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original-wordmark.svg" width="45"> &nbsp; &nbsp;
