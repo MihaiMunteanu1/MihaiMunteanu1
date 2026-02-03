@@ -53,7 +53,7 @@
 ## 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/mihai-munteanu-2a979834b/
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mihaimunteanu1&show_icons=true&hide_title=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MihaiMunteanu1&show_icons=true&hide_title=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mihaimunteanu1&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MihaiMunteanu1&layout=compact)
 
