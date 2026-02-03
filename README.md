@@ -34,7 +34,11 @@
 
 
 #### Networking & Infrastructures:
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45">   &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="45"> &nbsp;&nbsp; <img src="https://github.com/user-attachments/assets/a01d15d3-c1f9-4c93-a623-0e060f1f8040" width="45" >
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"> &nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="45"> &nbsp;&nbsp;
+<img src="https://github.com/user-attachments/assets/a01d15d3-c1f9-4c93-a623-0e060f1f8040" width="45" > &nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45">
+
 
 #### Build tools:
 
