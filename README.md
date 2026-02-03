@@ -49,6 +49,3 @@
 - **Tutorly** – AI tutoring platform with avatar + STT/TTS. *(FastAPI, React, Docker, Ollama, Whisper)*
 - **Ticketing Service** – Concurrent ticketing system with fine-grained locking + metrics. *(C++, multithreading)*
 - **Social Network App** – Desktop social network app with PostgreSQL persistence. *(Java, JavaFX, PostgreSQL)*
-
-## 📫 Contact
-- LinkedIn: https://www.linkedin.com/in/mihai-munteanu-2a979834b/
