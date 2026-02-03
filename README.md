@@ -9,7 +9,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/MQL5_Community_Logo.png" width="45"> &nbsp;&nbsp;   
 
 #### Programming Languages:
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="45"> &nbsp;&nbsp;<img src="https://camo.githubusercontent.com/cca412efea961d6d8a5729d02fab5d71a0cec3bd04b813707ca02c4dff78b124/68747470733a2f2f637265617a696c6c612d73746f72652e667261312e6469676974616c6f6365616e7370616365732e636f6d2f69636f6e732f333235363439382f66696c652d747970652d6370702d69636f6e2d6d642e706e67" width="45"> &nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="42">&nbsp;&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="45"> &nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="45"> &nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="42">&nbsp;&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="45"> &nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="45">&nbsp;&nbsp; 
 
 #### Frontend Development:
